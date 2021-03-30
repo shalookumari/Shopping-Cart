@@ -1,0 +1,84 @@
+OBJECTIVES AND REQUIREMENTS OF SHOPPING CART
+Objective: 
+•	Looking for an online shopping site to manage the items in the shop and also help customers purchase them online without having to visit the shop physically.
+•	To sell products at lower rate due to less over head.
+•	Provide home delivery free of cost.
+•	Secured transaction.
+
+Functional Requirements
+1. Secure login and registration and profile management facilities for Customers.
+2. Login  using the e-mail already registered to see the items that are there in each category of daily needs products or Food items like shampoo, biscuits etc.
+3. Creating a Shopping cart so that customer can choose the desired no. of items of required products
+4. Secured mechanism for checking out from the Shop. 
+5. Updates to customers about the Recent Items in the Shop.
+6.Facility to mention the customers if any product goes out of stock before checkout.
+7. Give special discounts to Premier customers.
+8. Providing the facility of getting the final bill at the end of every checkout process..
+9.Providing the facility to customers to search their desired product.
+10. Providing the facility to add products in cart before checkout.
+
+
+Non-Functional Requirements
+1. Secure access of confidential data (user’s details). 
+2. 24 X 7 availability for the access. 
+3. Better component design to get better performance at peak time
+4. Flexible service based architecture will be highly desirable for future extension.
+
+
+
+
+THE 4 W’S
+•	WHY? 
+There is a requirement of this online shopping cart because nowadays people do not want to go out and do shopping in traditional way.As the traditional shopping method requires efforts and is also very time taking.It will save time and is very easy to use also.
+•	WHAT? 
+This shopping cart is the modern version of shopping where people don’t need to go out and purchase products. They can choose and buy any product they want just by sitting in their homes by just clicking and scrolling on phones etc. It is an online website with certain products with prices displayed along with it with billing at the end of purchase of total products. There is a login and registration facility also for the facility of next purchase. 
+•	WHEN?
+As it is easily available and easy to access thus can be used 24 hours throughout the day on any day of a week.It do not require a specific time table or certain time limit to perform the purchase without any restriction.
+•	WHERE?
+It can be done online through any device like phone, laptop, tablet etc.  There should be internet connection on the device.
+
+Classification of requirements
+•	Business requirements. 
+These include high-level statements of goals, objectives, and needs. To have enough sales with profits on the sale of every product and having a brand value so that a customer always makes his another purchase after his first purchase.
+
+•	Stakeholder requirements. 
+The needs of discrete stakeholder groups are also specified to define what they expect from a particular solution. The requirement here is to fulfil the needs of customers by getting all the products available for them plus simultaneously fulfilling the goals of the investors so that their products become approachable for the customers.
+
+Feasibility Study
+•	Technical Feasibility
+
+	The project has a detailed design for the system and all the tools required to build the project are available for free. The assessment of this feasibility must be based on an outline design of the system requirement in terms of input, output, programs, and procedure. The system is self explanatory and does not require any entire sophisticated training. The system has been built by concentrating on graphical user interface concepts, the application can be handled very easily with novice uses. The overall time a user needs to get trained is less than 15 minutes. The system has been added with features of menu device and button interaction method. As the software that was used as developing this application are very economical and are readily available in the market. The customer only needs to visit the website.
+This project was implemented using Spring boot application, Spring Security, Thymeleaf, Hibernate and MySQL.
+
+	.
+	
+	
+	
+
+•	Operational Feasibility
+It refers to the feasibility of the product to be operational. Sometimes some project work well in design and implementation but can fail in real time environment but this project passes the operational feasibility as it do not require very complex requirements. It is easy to operate and handy to use. It is able to perform all the necessary requirements in online mode that a tradition shop requires.
+
+
+•	Economic Feasibility
+The economic feasibility will be in terms of the profit gained after selling products in comparison to the investment on these products and efforts or it can be equal to that in some cases but if it is lower than the assumed estimation of profit and investment then it is not feasible economically to implement such project.
+
+SWOT ANALYSIS 
+1. Strengths
+•	No time consumption.
+•	Products at cheaper prices.
+•	Less efforts in required in shopping compared to traditional shopping.
+•	Easy to use.
+•	Cashless transaction is also available.
+
+2. Weakness
+•	Requires a good internet connection to use.
+•	People need smart devices only to shop.
+•	Products can appear different on screen than in real.
+3. Opportunities
+•	This could be the new future of shopping as people no ore want to go out purchase things regularly.
+•	There could be more new technologies or features that can be added in it in future.
+4. Threats
+•	Competition from new investors in market.
+•	Internet issues can be serious threat.
+•	Site crash or virus attack can be a threat.
+
